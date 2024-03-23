@@ -1,3 +1,4 @@
+#Check GitHub if any changes from Vs code to GIT
 data=[100,250,10,40,50]
 # data.append(100)
 # data.append(99)
